@@ -3362,7 +3362,7 @@ index 000000000..ada434366
 +    .tls_grease = false,
 +    .tls_signed_cert_timestamps = true,
 +    .tls_key_shares_limit = 2,
-+  }
++  },
 +  {
 +    .target = "firefox140",  // tor 14.5, based on firefox 128
 +    .alias = "firefox140",
