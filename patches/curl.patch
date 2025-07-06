@@ -1566,7 +1566,7 @@ new file mode 100644
 index 000000000..ada434366
 --- /dev/null
 +++ b/lib/impersonate.c
-@@ -0,0 +1,1799 @@
+@@ -0,0 +1,1864 @@
 +#include "curl_setup.h"
 +
 +#include <curl/curl.h>
@@ -3364,7 +3364,7 @@ index 000000000..ada434366
 +    .tls_key_shares_limit = 2,
 +  },
 +  {
-+    .target = "firefox140",  // tor 14.5, based on firefox 128
++    .target = "firefox140",
 +    .alias = "firefox140",
 +    .httpversion = CURL_HTTP_VERSION_2_0,
 +    .ssl_version = CURL_SSLVERSION_TLSv1_2 | CURL_SSLVERSION_MAX_DEFAULT,
