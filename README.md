@@ -1,3 +1,5 @@
+# This fork's only purpose is for me to add some extra browser fingerprints that i've dumped/am going to dump in the future and so I can build it properly using the workflows as i had some issues building it locally on my machine.
+
 # curl-impersonate ![Chrome](https://raw.githubusercontent.com/alrra/browser-logos/main/src/chrome/chrome_24x24.png "Chrome") ![Edge](https://raw.githubusercontent.com/alrra/browser-logos/main/src/edge/edge_24x24.png "Edge") ![Safari](https://github.com/alrra/browser-logos/blob/main/src/safari/safari_24x24.png "Safari") ![Firefox](https://github.com/alrra/browser-logos/blob/main/src/firefox/firefox_24x24.png "Firefox") ![Tor](https://github.com/alrra/browser-logos/blob/main/src/tor/tor_24x24.png "Tor")
 
 [![Build and test](https://github.com/lexiforest/curl-impersonate/actions/workflows/build-and-test-make.yml/badge.svg)](https://github.com/lexiforest/curl-impersonate/actions/workflows/build-and-test-make.yml)
