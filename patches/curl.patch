@@ -3425,7 +3425,7 @@ index 000000000..ada434366
 +    .tls_grease = true,
 +    .tls_signed_cert_timestamps = true,
 +    .tls_key_shares_limit = 3,
-+  }
++  },
 +};
 +
 +const size_t num_impersonations = sizeof(impersonations) / sizeof(impersonations[0]);
